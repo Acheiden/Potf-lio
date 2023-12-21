@@ -1,0 +1,25 @@
+header img{
+    width: 150px;
+}
+
+.fundo{
+    text-align: center;
+    background-image: linear-gradient(to bottom, #ff0000, #e17600, #b5a900, #7fce2f, #12eb90);
+}
+
+.colornav{
+    background-color: red;
+}
+
+.titulo{
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 60px;
+}
+
+section{
+    margin-top: 5%;
+}
+
+.carousel-item img{
+    width: 550px;
+}
